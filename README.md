@@ -2,7 +2,8 @@
 
 ### Full Stack Developer | Mobile Coder | UI/UX Enthusiast
 
-Bienvenue sur mon profil GitHub ! Étudiant en Bachelor Développement Informatique à Paris Ynov Campus, je suis passionné par le développement web et mobile. Actuellement en recherche d’une alternance, je crée des applications performantes avec React, Laravel, Node.js, et bien plus.  
+Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles modernes en utilisant des technologies comme React, Laravel, Node.js et bien d'autres. Passionné par l’expérience utilisateur et l’architecture logicielle, je développe des solutions performantes, maintenables et orientées produit.
+
 Voici l’un de mes derniers projets 👇
 
 
