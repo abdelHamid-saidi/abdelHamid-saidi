@@ -7,7 +7,7 @@ Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles mo
 Voici quelques uns de mes derniers projets 👇
 
 
-## 🛠️ Projets
+## Projets
 
 -  [To Do List](https://github.com/abdelHamid-saidi/React-Todo-List) — Application de gestion de tâches avec React et une interface moderne
 -  [Tic-Tac-Too Game](https://github.com/abdelHamid-saidi/React-Tic-Tac-Too) — Jeu de morpion avec intelligence artificielle
