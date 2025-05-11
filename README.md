@@ -2,9 +2,7 @@
 
 ### Full Stack Developer | Mobile Coder | UI/UX Enthusiast
 
-Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles modernes en utilisant des technologies comme React, Laravel, Node.js et bien d'autres. Passionné par l’expérience utilisateur et l’architecture logicielle, je développe des solutions performantes, maintenables et orientées produit.
-
-Voici l’un de mes derniers projets 👇
+Bienvenue sur mon profil GitHub ! Je conçois des applications web et mobiles modernes en utilisant des technologies comme React, Laravel, Node.js et bien d'autres. Passionné par l’expérience utilisateur et l’architecture logicielle, je développe des solutions performantes, maintenables et orientées produit 👇. 
 
 
 ## Stack technique
