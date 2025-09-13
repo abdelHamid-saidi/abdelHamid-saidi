@@ -9,6 +9,9 @@ Voici quelques uns de mes derniers projets 👇
 
 ## Projets
 
+-  [DateRangePicker Demo](https://github.com/abdelHamid-saidi/test-technique) — Application de démonstration présentant un composant DateRangePicker personnalisé.
+-  [Huiz](https://github.com/abdelHamid-saidi/Huiz) — Application de quiz moderne construite avec Vue.js et Tailwind CSS.
+-  [Artizone](https://github.com/abdelHamid-saidi/Artizone) — Plateforme de mise en relation entre particuliers et artisans locaux.
 -  [To Do List](https://github.com/abdelHamid-saidi/React-Todo-List) — Application de gestion de tâches avec React et une interface moderne
 -  [Tic-Tac-Too Game](https://github.com/abdelHamid-saidi/React-Tic-Tac-Too) — Jeu de morpion avec intelligence artificielle
 -  [StockApp](https://github.com/abdelHamid-saidi/StockApp) — Application de gestion de stock simple et intuitive avec C#
@@ -18,8 +21,8 @@ Voici quelques uns de mes derniers projets 👇
 ## Stack technique
 
 - **Langages** : HTML, CSS, JavaScript, TypeScript, PHP, C#, Java
-- **Frameworks** : React, Node.js, Express.js, Laravel, Bootstrap, Tailwind, Kotlin 
-- **Base de données** : MySQL
+- **Frameworks** : React, Vue, Node.js, Express.js, Laravel, Bootstrap, Tailwind, Kotlin 
+- **Base de données** : MySQL, MongoDB
 - **Autres** : UI/UX Design, responsive web, API REST
 
 
